@@ -4,6 +4,8 @@ Automatically compute versions from a Git repo via [SemVer 2][semver-2] Git tags
 
 For Continuous Delivery workflows.
 
+Liam was here
+
 ## Quickstart
 
 Install as a global tool:
